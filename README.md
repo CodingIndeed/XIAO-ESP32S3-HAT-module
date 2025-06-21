@@ -46,10 +46,10 @@ For more info, search `"SparkFun BMP581"` and `"SparkFun BNO086"` on Google.
 
 ## 📷 Images
 
-/images/1.jpg
-/images/2.jpg
-/images/3.jpg
-/images/4.jpg
+![Image 1](images/1.jpg)  
+![Image 2](images/2.jpg)  
+![Image 3](images/3.jpg)  
+![Image 4](images/4.jpg)
 
 ---
 
