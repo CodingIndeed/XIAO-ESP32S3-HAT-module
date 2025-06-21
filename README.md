@@ -46,10 +46,12 @@ For more info, search `"SparkFun BMP581"` and `"SparkFun BNO086"` on Google.
 
 ## 📷 Images
 
-![Image 1](images/1.jpg)  
-![Image 2](images/2.jpg)  
-![Image 3](images/3.jpg)  
-![Image 4](images/4.jpg)
+<p float="left">
+  <img src="images/1.jpg" width="200"/>
+  <img src="images/2.jpg" width="200"/>
+  <img src="images/3.jpg" width="200"/>
+  <img src="images/4.jpg" width="200"/>
+</p>
 
 ---
 
