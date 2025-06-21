@@ -57,7 +57,7 @@ For more info, search `"SparkFun BMP581"` and `"SparkFun BNO086"` on Google.
 
 ## 🛠️ PCB Fabrication & Assembly
 
-To manufacture and assemble the board, you can place the order at: [**PCBWay**](https://www.pcbway.com/project/shareproject/ESP32_HAT_IMU_Baro_SD_card_module_d01a1b4e.html):
+To print and assemble the board, you can place the order at: [**PCBWay**](https://www.pcbway.com/project/shareproject/ESP32_HAT_IMU_Baro_SD_card_module_d01a1b4e.html):
 
 
 ---
