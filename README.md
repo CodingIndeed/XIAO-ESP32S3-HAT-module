@@ -11,14 +11,22 @@ This design is ideal for projects that require real-time sensor fusion and high-
 
 ## File Structure
 CODE
-  IMU_Test # Reads and logs accelerometer, gyro, and magnetometer data
-  Baro_Test # Reads and logs temperature, pressure, and altitude
+
+  - IMU_Test: Reads and logs accelerometer, gyro, and magnetometer data
+  
+  - Baro_Test: Reads and logs temperature, pressure, and altitude
+  
 Hardware
-  BOM.csv # Bill of Materials
-  Gerber.zip # Gerber files for fabrication
-  Pick_and_Place.csv # Pick & Place file for assembly
+
+  - BOM.csv: Bill of Materials
+  
+  - Gerber.zip: Gerber files for fabrication
+  
+  - Pick_and_Place.csv: Pick & Place file for assembly
+  
 Schematic
-  XIAO_HAT_Schematic.pdf # Circuit schematic of the module
+
+  - XIAO_HAT_Schematic.pdf # Circuit schematic of the module
 
 ---
 
@@ -32,7 +40,7 @@ To run the code, install the following Arduino libraries:
 - **SparkFun BMP581 Barometer Library:**  
   https://github.com/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP581
 
-Search for `"SparkFun BMP581"` and `"SparkFun BNO086"` in the Arduino Library Manager.
+For more info, search `"SparkFun BMP581"` and `"SparkFun BNO086"` on Google.
 
 ---
 
