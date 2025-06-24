@@ -15,6 +15,8 @@ CODE
   - IMU_Test: Reads and logs accelerometer, gyro, and magnetometer data
   
   - Baro_Test: Reads and logs temperature, pressure, and altitude
+
+  - IMU_Baro_Test: Reads both IMU and Barometer sensors and logs the data.
   
 Hardware
 
